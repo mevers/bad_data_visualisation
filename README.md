@@ -58,7 +58,10 @@ both within and between pies.
 
 The only thing worse than pie charts are 3D pie charts (or worse still: blown-up 3D pie charts). Consider this:
 
-<img src="./figures/SalesQ1.jpg" style="height:150px"><img src="./figures/SalesQ2.jpg" style="height:150px">
+<div>
+<img src="./figures/SalesQ1.jpg" width="150"><img src="./figures/SalesQ2.jpg" width="150">
+</div>
+
 
 Question: [Which employee had the most sales in Q1 and Q2?](http://www.getnerdyhr.com/3d-pie-charts-are-evil/)
 
