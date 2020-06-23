@@ -59,7 +59,7 @@ both within and between pies.
 The only thing worse than pie charts are 3D pie charts (or worse still: blown-up 3D pie charts). Consider this:
 
 <div>
-<img src="./figures/SalesQ1.jpg" width="150"><img src="./figures/SalesQ2.jpg" width="150">
+<img src="./figures/SalesQ1.jpg" width="250"><img src="./figures/SalesQ2.jpg" width="250">
 </div>
 
 
