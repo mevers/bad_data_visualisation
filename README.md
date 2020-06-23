@@ -58,7 +58,7 @@ both within and between pies.
 
 The only thing worse than pie charts are 3D pie charts (or worse still: blown-up 3D pie charts). Consider this:
 
-<img src="./figures/SalesQ1.jpg" style="height:200px"><img src="./figures/SalesQ2.jpg" style="height:200px">
+<img src="./figures/SalesQ1.jpg" style="height:150px"><img src="./figures/SalesQ2.jpg" style="height:150px">
 
 Question: [Which employee had the most sales in Q1 and Q2?](http://www.getnerdyhr.com/3d-pie-charts-are-evil/)
 
@@ -73,3 +73,10 @@ Question: [Which employee had the most sales in Q1 and Q2?](http://www.getnerdyh
 [The worst graphs of 2017](https://getdolphins.com/blog/the-worst-graphs-of-2017/)
 
 [The worst graphs of 2018](https://getdolphins.com/blog/worst-graphs-of-2018/)
+
+
+# Contact & disclaimer
+
+This is a highly selective list of links & references pertaining to data visualisation. It is neither exhaustive, nor unbiased.
+
+Feel free to [send me an email](mailto:maurits.evers@gmail.com) if you feel strongly about any information contained in this document.
